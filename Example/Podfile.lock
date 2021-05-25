@@ -1,0 +1,16 @@
+PODS:
+  - ZDSystemInfo (0.1.0)
+
+DEPENDENCIES:
+  - ZDSystemInfo (from `../`)
+
+EXTERNAL SOURCES:
+  ZDSystemInfo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZDSystemInfo: 9cfb361649aad6c3358534a20094c39c051a89d6
+
+PODFILE CHECKSUM: 9c31e2b9e9bd7b4d7e032f34df595d3d52f58bb6
+
+COCOAPODS: 1.10.1

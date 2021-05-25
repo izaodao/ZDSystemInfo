@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZDSystemInfo_Example' do
+  pod 'ZDSystemInfo', :path => '../'
+
+  target 'ZDSystemInfo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
